@@ -10,7 +10,7 @@ const Experience = () => {
       duration: '2023 - Present',
       description: 'Leading mobile development projects, mentoring junior developers, and architecting scalable Flutter applications.',
       achievements: [
-        'Led development of 3+ production Flutter apps',
+        'Lead the development of 3+ production Flutter apps',
         'Improved app performance by 40% through optimization',
         'Mentored team of 3 junior developers'
       ]

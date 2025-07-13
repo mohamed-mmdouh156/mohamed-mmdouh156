@@ -42,6 +42,14 @@ const Projects = () => {
       category: 'E-commerce'
     },
     {
+      title: 'Saytara',
+      description: 'Saytara revolutionizes store management by providing an intuitive platform for controlling employees efficiently and effectively. With Saytara, store managers can seamlessly manage shifts, monitor employee performance in real-time.',
+      image: 'https://play-lh.googleusercontent.com/K6YTj1oehngDsvpAg_cw_nPFt3L9-RavwbC-xTzZrmetDX6mJX8lLewr8Q9rbxxvFXs=w832-h470-rw', // Replace with actual image if available
+      tech: ['Flutter', 'Google Maps', 'REST APIs', 'Firebase', 'Real-time Tracking'],
+      playStoreUrl: 'https://play.google.com/store/search?q=saytara&c=apps',
+      category: 'Store Management'
+    },
+    {
       title: 'ZCard',
       description: 'ZCard is a health insurance program that offers discounts of up to 100% on medical check-ups, hospital visits, lab tests, and radiology services.This program is designed for individuals who want to save money on their medical expenses without compromising the quality of care they receive.',
       image: 'https://play-lh.googleusercontent.com/PhYE3mwto4qGYo53n9MnlELUvNGaIu-M4G75kPpJCqRf67CtOS6aEbR762qPF-UQ6Kc=w480-h960-rw?auto=compress&cs=tinysrgb&w=800',
@@ -78,7 +86,7 @@ const Projects = () => {
       playStoreUrl: 'https://play.google.com/store/apps/details?id=com.gas.gas',
       appStoreUrl: 'https://apps.apple.com/app/gas-plus/id1662697146',
       category: 'Service'
-    }
+    },
   ];
 
   return (
