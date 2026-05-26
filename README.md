@@ -14,7 +14,7 @@
 ### 🚀 About Me
 
 - 📱 **Senior Flutter Developer** with **3+ years** of experience building production-grade mobile applications.
-- 🏗️ Expert in **Clean Architecture**, **MVVM**, **SOLID**, and advanced state management (**Bloc**, **Cubit**, **Provider**, **GetX**, **Riverpod**).
+- 🏗️ Expert in **Clean Architecture**, **MVVM**, **SOLID**, and advanced state management (**Bloc**, **Cubit**, **Provider**, **GetX**).
 - 🌍 Delivered **12+ apps** published on **Google Play** and the **App Store**, serving **50,000+ combined users** across **e-commerce**, **logistics**, **HR**, and **AI** domains.
 - 🔌 Integrated **Odoo ERP**, **Firebase**, **Stripe / Paymob / HyperPay**, real-time **GPS tracking**, **geofencing**, and **push notifications**.
 - ⚡ Focused on performance optimization, unit/widget/integration testing, **CI/CD**, and writing maintainable, scalable code.
