@@ -14,11 +14,11 @@
 ### 🚀 About Me
 
 - 📱 **Senior Flutter Developer** with **3+ years** of experience building production-grade mobile applications.
-- 🏗️ Expert in **Clean Architecture**, **MVVM**, **SOLID**, and advanced state management (**Bloc**, **Cubit**, **Provider**, **GetX**).
+- 🏗️ Expert in **Clean Architecture**, **MVVM**, **SOLID**, and advanced state management (**Bloc**, **Cubit**, **Provider**, **GetX**, **Riverpod**).
 - 🌍 Delivered **12+ apps** published on **Google Play** and the **App Store**, serving **50,000+ combined users** across **e-commerce**, **logistics**, **HR**, and **AI** domains.
 - 🔌 Integrated **Odoo ERP**, **Firebase**, **Stripe / Paymob / HyperPay**, real-time **GPS tracking**, **geofencing**, and **push notifications**.
 - ⚡ Focused on performance optimization, unit/widget/integration testing, **CI/CD**, and writing maintainable, scalable code.
-- 📍 Based in **Cairo, Egypt** · Open to office, hybrid, and remote opportunities worldwide.
+- 📍 Based in **Cairo, Egypt** · Open to office, hybrid, and remote opportunities.
 
 ---
 
@@ -70,21 +70,17 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamed-mmdouh-dev&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-mmdouh-dev&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 ### 🛵 Marty — On-Demand Delivery Platform · **5,000+ users**
 Multi-vendor delivery platform with real-time order tracking, live driver location, and integrated payments. Increased checkout conversion via a promotional/coupon system.
 
 **Stack:** Flutter · Bloc · Clean Architecture · Firebase · Google Maps · Stripe · Paymob · FCM
+
+<p>
+  <a href="#" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>
+  <a href="#" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -93,12 +89,22 @@ AI-powered fitness assistant delivering personalized workout and nutrition plans
 
 **Stack:** Flutter · Bloc · Clean Architecture · OpenAI · Firebase · IAP
 
+<p>
+  <a href="#" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>
+  <a href="#" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a>
+</p>
+
 ---
 
 ### 🏢 Tie Works — Enterprise Workforce Management
 Enterprise HR & workforce mobile solution fully integrated with **Odoo ERP**. GPS tracking, geofencing-based attendance, shift management, and HR modules (leave, overtime, payslips, approvals).
 
 **Stack:** Flutter · Bloc · MVVM · Odoo API · Google Maps · Geofencing · Firebase
+
+<p>
+  <a href="#" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>
+  <a href="#" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -107,10 +113,17 @@ Driver companion app with route optimization, real-time tracking, task workflow 
 
 **Stack:** Flutter · Bloc · Clean Architecture · FCM · Google Maps · SQLite
 
+<p>
+  <a href="#" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>
+  <a href="#" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a>
+</p>
+
 ---
 
-### 💬 didaGPT© — Conversational AI for Restaurants
-Conversational AI within the **dida©** ecosystem that empowers restaurant owners with instant insights from their data. Trains on each restaurant's unique data so suggestions are tailored.
+### 💬 Dima App — Conversational AI Assistant
+Conversational AI assistant powered by OpenAI APIs. Trains on the business's unique data so suggestions are tailored, with voice-to-text and chat UI for natural interaction.
+
+**Stack:** Flutter · MVVM · OpenAI · AI/ML APIs · Firebase
 
 <p>
   <a href="https://play.google.com/store/apps/details?id=darwinz.ai.didagpt3" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>
@@ -119,8 +132,20 @@ Conversational AI within the **dida©** ecosystem that empowers restaurant owner
 
 ---
 
+### 🛒 Souqna — Online Marketplace · **10,000+ users**
+Full e-commerce flow with chat, reviews, secure payments, and seller dashboards. Built end-to-end shopping experience.
+
+**Stack:** Flutter · Firebase · Stripe
+
+<p>
+  <a href="#" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>
+  <a href="#" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a>
+</p>
+
+---
+
 ### 🎁 Flexcards — Gift Cards Platform
-Create, sell, and redeem gift cards across physical stores and online channels — boosting sales with new revenue channels.
+Create, sell, and redeem gift cards across physical stores and online channels seamlessly. Boost sales with new revenue channels and enhance existing sales operations.
 
 **Website:** https://demo.flexcards.darwinz.ai/ · **WebApp:** https://flexcards.darwinz.ai/#/auth
 
@@ -140,14 +165,18 @@ Innovative digital menu and online ordering platform with multi-tenant architect
 ### 💳 ZCard — Loyalty & Rewards
 Comprehensive discount program offering up to 100% savings across medical, hospitality, retail, fitness, real estate, and entertainment sectors.
 
+**Stack:** Flutter · Firebase · Push Notifications · QR-based Redemption
+
 <p>
   <a href="https://play.google.com/store/apps/details?id=zcard.app.zcard" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>
 </p>
 
 ---
 
-### 🧾 Receety — Digital Receipts
+### 🧾 Receety — Digital Receipts SaaS
 Help save the environment with digital receipts from Receety-enabled vendors. Keep all receipts in one place and receive exclusive offers from favorite stores.
+
+**Stack:** Flutter · REST APIs · QR Scanning · Cloud Sync
 
 <p>
   <a href="https://play.google.com/store/apps/details?id=com.receety.receety" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>
@@ -156,8 +185,10 @@ Help save the environment with digital receipts from Receety-enabled vendors. Ke
 
 ---
 
-### 👷 WFI وفى — HR Management
+### 👷 WFI وفى — HR Management System
 Watan First HR services platform — book trained domestic workers across nationalities and professions. Built with Odoo backend integration, payroll, and attendance modules.
+
+**Stack:** Flutter · Bloc · Odoo Integration · Payroll · Attendance
 
 <p>
   <a href="https://play.google.com/store/apps/details?id=watan.app.wfi" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>
@@ -167,7 +198,7 @@ Watan First HR services platform — book trained domestic workers across nation
 ---
 
 ### ⛽ Gas Plus — On-Demand Gas Tools Delivery
-Fastest gas tools delivery, on demand.
+The quickest GAS tools delivery — easy ordering and tracking with the Gas Plus app.
 
 <p>
   <a href="https://play.google.com/store/apps/details?id=com.gas.gas" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>
@@ -176,8 +207,36 @@ Fastest gas tools delivery, on demand.
 
 ---
 
-### 🛒 Souqna · 🛍️ Dima · 🎮 CardSim · 🏬 Saytara · 🤖 UFeed
-Additional production apps spanning e-commerce, AI retail, gaming, retail POS, and AI web platforms. **10,000+ users on Souqna alone.**
+### 🎮 CardSim — Gaming E-commerce
+Gaming e-commerce app with in-app purchases and real-time inventory updates.
+
+**Stack:** Flutter · In-App Purchases · Real-time Inventory
+
+<p>
+  <a href="#" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>
+</p>
+
+---
+
+### 🏬 Saytara — Retail Store Management
+Retail store management platform with inventory and POS modules built on Clean Architecture.
+
+**Stack:** Flutter · Clean Architecture · Inventory · POS
+
+<p>
+  <a href="#" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>
+</p>
+
+---
+
+### 🌐 UFeed — AI Web Platform
+Flutter Web app delivering real-time AI-generated content with responsive layouts and streaming responses.
+
+**Stack:** Flutter Web · REST APIs · AI/ML
+
+<p>
+  <a href="#" target="_blank"><img alt="Web" src="https://img.shields.io/badge/Visit%20Web%20App-22D3EE.svg?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+</p>
 
 ---
 
